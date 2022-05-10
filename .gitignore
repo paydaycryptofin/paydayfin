@@ -28,6 +28,8 @@ node_modules
 coverage
 coverage.json
 typechain
+.vscode
+.husky
 
 #Truffle files
 /Truffle/build
